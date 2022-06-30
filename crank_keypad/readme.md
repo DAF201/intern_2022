@@ -28,3 +28,5 @@ input range: text range show on screen
 input buffer: just link it to the varible you need to edit
 
 input limit: the max number input can reach
+
+![](https://github.com/DAF201/intern_2022/blob/main/crank_keypad/Screenshot%20(14).png)
