@@ -31,3 +31,4 @@
 30. Rewrite everything related to AM/PM
 31. keypad function rewrite and sepration (fixed)
 32. switch rewrite (fixed)
+33. can run page switch for multiple and single not functioning (fixed)
