@@ -4,7 +4,7 @@
 
 ##### #Just a pre-warning, don't use any function looks extremely complex, those were left by whoever before me. I made new functions, but I didn't remove those old stuffs cause there are tons of them already there, and if I just delete them likely the whole thing will crush.
 
-##### #Also, don't fking write something like wgg_data1,wgg_data2...balabala, no one else can understant the purpose of theose shit
+##### #Also, don't fking write something like wgg_data1,wgg_data2...balabala, no one else can understant the purpose of those shit
 ----
 
 ## [1. how to add keyboard](#keyboard)
