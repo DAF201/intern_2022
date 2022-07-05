@@ -6,8 +6,8 @@
 
 ----
 
-## [1. how to add keyboard (don't use the old one)](#keyboard)
-## 2. how to add switch (don't copy the old one)
+## [1. how to add keyboard](#keyboard)
+## [2. how to add switch](#switch)
 
 
 
@@ -62,4 +62,4 @@
 
 
 
-<a name='keyboard'>test</a>
+### <a name='keyboard'>keyboard</a>
