@@ -6,7 +6,7 @@
 
 ##### #Also, don't fking write something like wgg_data1,wgg_data2...balabala, no one else can understant the purpose of those shit
 
-##### #Lastly, don't make function of every single button/switch, that is stupid indeed, there is already tons of them left in this project before I took over
+##### #Lastly, don't make function of every single button/switch, that is stupid indeed. There are already tons of them left in this project before I took over this project
 ----
 
 ## [1. how to add keyboard](#keyboard)
