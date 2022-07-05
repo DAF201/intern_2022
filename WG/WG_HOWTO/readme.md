@@ -6,7 +6,7 @@
 
 ----
 
-## 1. how to add keyboard (don't use the old one)[#keyboard]
+## [1. how to add keyboard (don't use the old one)](#keyboard)
 ## 2. how to add switch (don't copy the old one)
 
 
