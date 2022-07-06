@@ -32,3 +32,4 @@
 31. keypad function rewrite and sepration (fixed)
 32. switch rewrite (fixed)
 33. can run page switch for multiple and single not functioning (fixed)
+34. fix the setting page side bar UI (not me)
