@@ -6,7 +6,7 @@
 
 ##### #Also, don't fking write something like wgg_data1,wgg_data2...balabala, no one else can understant the purpose of those shit
 
-#### #Then, if you did make it, just leave it there, don't fking put a bunch of useless static images and text there to pretend you are quite ahead in progress. You are not the only one who codes here, and it causes tons of difficulty for other people.
+##### #Then, if you did make it, just leave it there, don't fking put a bunch of useless static images and text there to pretend you are quite ahead in progress. You are not the only one who codes here, and it causes tons of difficulty for other people.
 
 ##### #Lastly, don't make function of every single button/switch, that is stupid indeed. There are already tons of them left in this project before I took over this project
 ----
