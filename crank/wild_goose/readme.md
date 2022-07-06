@@ -27,9 +27,10 @@
 25. Setting page Nofification section LN2 remainder button to be finished
 26. Setting page switch disable to be finish
 28. Setting page system page to be finished (buttons' descriptions needed)
-29. Input page for time and date to be finished
-30. Rewrite everything related to AM/PM
-31. keypad function rewrite and sepration (fixed)
-32. switch rewrite (fixed)
-33. can run page switch for multiple and single not functioning (fixed)
-34. fix the setting page side bar UI (not me)
+29. Setting page rinse page saving issue (fixed)
+30. Input page for time and date to be finished
+31. Rewrite everything related to AM/PM
+32. keypad function rewrite and sepration (fixed)
+33. switch rewrite (fixed)
+34. can run page switch for multiple and single not functioning (fixed)
+35. fix the setting page side bar UI (not me)
