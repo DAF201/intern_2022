@@ -34,3 +34,4 @@
 33. ~~switch rewrite (fixed)~~
 34. ~~can run page switch for multiple and single not functioning (fixed)~~
 35. fix the setting page side bar UI (not me)
+36. fix everything damaged
