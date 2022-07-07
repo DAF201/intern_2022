@@ -10,10 +10,12 @@
 
 ##### #Lastly, don't make function of every single button/switch, that is stupid indeed. There are already tons of them left in this project before I took over this project
 ----
-
-## 1. [keyboard](#keyboard)
-## 2. [switch](#switch)
-## 3. [decreate/increase button](#de/in)
+## 1. [variable naming](#variable)
+## 2. [function naming](#function)
+## 3. [structure](#structure)
+## 4. [keyboard](#keyboard)
+## 5. [switch](#switch)
+## 6. [decreate/increase button](#de/in)
 
 
 
