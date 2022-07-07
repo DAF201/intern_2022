@@ -11,9 +11,9 @@
 ##### #Lastly, don't make function of every single button/switch, that is stupid indeed. There are already tons of them left in this project before I took over this project
 ----
 
-## [1. how to add keyboard](#keyboard)
-## [2. how to add switch](#switch)
-## [3. how to add decreate/increase button](#de/in)
+## 1. [keyboard](#keyboard)
+## 2. [switch](#switch)
+## 3. [decreate/increase button](#de/in)
 
 
 
