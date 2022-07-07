@@ -13,7 +13,7 @@
 
 ## [1. how to add keyboard](#keyboard)
 ## [2. how to add switch](#switch)
-## [3. how to add decreate/increase button(#de/in)
+## [3. how to add decreate/increase button](#de/in)
 
 
 
