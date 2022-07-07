@@ -1,5 +1,7 @@
 # SAVE COPY BEFORE STARTING! 
 
-my whole week of works were fucking ruined by you!
+my whole week of works were ruined!
+
+next time I will report it to manager and you will need to fix theose youself 😠
 
 if you don't know how to use git, just download the bat and click it before you start!
