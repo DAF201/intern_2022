@@ -29,7 +29,7 @@
 28. Setting page system page to be finished (buttons' descriptions needed)
 29. ~~Setting page rinse page saving issue (fixed)~~
 30. Input page for time and date to be finished
-31. Rewrite everything related to AM/PM
+31. Rewrite everything related to AM/PM (starting with right now)
 32. ~~keypad function rewrite and sepration (fixed)~~
 33. ~~switch rewrite (fixed)~~
 34. ~~can run page switch for multiple and single not functioning (fixed)~~
