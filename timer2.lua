@@ -2,7 +2,7 @@ timed_callback_functions = {}
 registered_function = {}
 start_time = os.date('%S')
 time_counter = 0
-
+-- the stupid thing does not support table.unpack
 function callback_register(name, func, interval, ...)
     if registered_function[name] == nil then
         timed_callback_functions[#timed_callback_functions + 1] = {name, interval, func}
