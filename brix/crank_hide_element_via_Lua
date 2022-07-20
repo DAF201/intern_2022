@@ -1,5 +1,4 @@
 function get_hidden_test()
-local control=gre.get_control_attrs("TEXT_BACKGROUND.bg")
 gre.set_value("TEXT_BACKGROUND.bg.line4",tostring(control['hidden']))--0 is show 1 is hide
 gre.set_control_attrs("TEXT_BACKGROUND.bg",{['hidden']=1})--hide something via lua
 end
