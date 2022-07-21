@@ -1,3 +1,4 @@
+--this table don't work on crank,but works on my personal laptop😅
 return_switch = {
   ['40003'] = function()
     data_app['barrelcount'] = tonumber(tobin(splited_data[3]), 2)
