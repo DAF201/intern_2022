@@ -1,5 +1,5 @@
 # intern_2022
-partial...
+partial...I only open source the part I made/remade/bug fixed...
 
 Blink save:
 
