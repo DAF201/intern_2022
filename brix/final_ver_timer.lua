@@ -2,6 +2,7 @@ timed_callback_functions = {}
 registered_function = {}
 start_time = os.date('%S')
 time_counter = 0
+
 --finially work on this stupid thing
 function callback_register(name, func, interval, ...)
     if registered_function[name] == nil then
@@ -18,14 +19,13 @@ function callback_unregister(function_name)
         if value[1] == function_name then
             table.remove(timed_callback_functions, counter)
             registered_function[function_name] = nil
-            echo('unregistered function '..function_name)
+            echo('unregistering '..function_name)
         end
         counter = counter + 1
     end
 end
 
 function clock()
-
     while 1 do
         now = os.date('%S')
         if now ~= start_time then
@@ -41,10 +41,10 @@ function clock()
                     if time_counter % timed_callback_functions[i][2] == 0 then
                         local statu, error = pcall(timed_callback_functions[i][3],
                             unpack(registered_function[function_name], #registered_function[function_name]))
-                        -- print('executing ' .. function_name)
+                        -- print("executing " .. function_name)
                         if not statu then
-                            print('error: ' .. timed_callback_functions[i][1])
-                            print(error)
+                            echo("error: " .. timed_callback_functions[i][1])
+                            echo(error)
                         end
                     end
                 end
