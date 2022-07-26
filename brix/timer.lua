@@ -3,7 +3,7 @@ registered_function = {}
 start_time = os.date('%S')
 time_counter = 0
 
--- finially work on this stupid thing
+-- threading -> gre.time_interval(clock)
 function callback_register(name, func, interval, arg1, arg2, arg3)
     if registered_function[name] == nil then
         timed_callback_functions[#timed_callback_functions + 1] = {name, interval, func}
